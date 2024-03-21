@@ -8,6 +8,7 @@ EthSydney Meetup 22 Mar 2024
   * [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564)
   * [ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538)
   * Stealth Meta-Addresses, Announcer & Registry
+  * [MagicalInternetMoney.transferEthAndAnnounce(...)](https://github.com/bokkypoobah/MagicalInternetMoney/blob/main/contracts/MagicalInternetMoney.sol#L125-L173)
   * https://github.com/bokkypoobah/MagicalInternetMoney
 * Shielded Transfers - Railgun
   * https://app.railway.xyz/ 
