@@ -4,6 +4,8 @@ EthSydney Meetup 22 Mar 2024
 * Importance of Privacy
 * My Background
 * Stealth Addresses
+  * [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564)
+  * [ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538)
   * https://github.com/bokkypoobah/MagicalInternetMoney
   * https://bokkypoobah.github.io/MagicalInternetMoney/
 * Shielded Transfers - Railgun
