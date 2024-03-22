@@ -7,11 +7,11 @@ EthSydney Meetup 22 Mar 2024
 * Stealth Addresses
   * [ERC-5564: Stealth Addresses](https://eips.ethereum.org/EIPS/eip-5564)
     * [ERC5564Announcer on Sepolia](https://sepolia.etherscan.io/address/0xFe6335f5dc5a469e74fB6a9FDAe116bFD5346365#code)
-    * [ERC5564Registry on Sepolia](https://sepolia.etherscan.io/address/0x5F8ac9e3B2DD28cA2c9bc7A992Ce36c3C4929Cde#code)
-    * [MagicalInternetMoney on Sepolia](https://sepolia.etherscan.io/address/0x5B84e1706CD6Ae0d79486Dd6F30503B4330742E1#code)
   * [ERC-6538: Stealth Meta-Address Registry](https://eips.ethereum.org/EIPS/eip-6538)
-  * Stealth Meta-Addresses, Announcer & Registry
-  * [MagicalInternetMoney.transferEthAndAnnounce(...)](https://github.com/bokkypoobah/MagicalInternetMoney/blob/main/contracts/MagicalInternetMoney.sol#L125-L173)
+    * [ERC5564Registry on Sepolia](https://sepolia.etherscan.io/address/0x5F8ac9e3B2DD28cA2c9bc7A992Ce36c3C4929Cde#code)
+  * Transfer Helpers
+    * [MagicalInternetMoney.transferEthAndAnnounce(...)](https://github.com/bokkypoobah/MagicalInternetMoney/blob/main/contracts/MagicalInternetMoney.sol#L125-L173)
+    * [MagicalInternetMoney on Sepolia](https://sepolia.etherscan.io/address/0x5B84e1706CD6Ae0d79486Dd6F30503B4330742E1#code)
   * https://github.com/bokkypoobah/MagicalInternetMoney
 * Shielded Transfers - Railgun
   * https://app.railway.xyz/ 
